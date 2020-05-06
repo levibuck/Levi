@@ -9,19 +9,20 @@ body{
 }
 
 header{
-	background-color: #d14635;
+	background-color: #F87611;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px
 }
 h1, h2{
-	font-family: 'Titillium Web', sans-serif;
+	font-family: 'Montserrat', sans-serif;
+	
 }
 
 /*header styles*/
 
 header h1{
-	color: white;
+	color: black;
 	font-size: 50px
 
 }
@@ -29,7 +30,7 @@ header h1{
 header img{
 	border-radius: 170px;
 	width: 200px;
-	border: 5px solid white;
+	border: 5px solid black;
 }
 .center{
 	display: block;
@@ -52,7 +53,7 @@ main img{
 }
 h2{
 	font-size: 35px;
-	color: red;
+	color: black;
 	margin: 10px;
 }
 
