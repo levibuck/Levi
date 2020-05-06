@@ -3,6 +3,7 @@ body{
 	font-family: 'helvitica', 'arial', sans-serif;
 	font-size: 20px;
 	line-height: 20px;
+	background-color: gold 
 
 
 }
@@ -26,16 +27,17 @@ header h1{
 }
 
 header img{
-	border-radius: ;
-	width: ;
+	border-radius: 170px;
+	width: 200px;
 	border: 5px solid white;
 }
-
-h2 img{
-	border-radius: 170;
-	width: 200px;
-	border: 2px solid salmon;
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%
 }
+
 
 main{
 	max-width: 800px;
@@ -43,7 +45,10 @@ main{
 	padding: 20px;
 }
 main img{
-	max-width: 100%
+	max-width: 100%;
+	border-radius: 50px;
+	width: 200px;
+	border: 2px solid salmon
 }
 h2{
 	font-size: 35px;
@@ -81,4 +86,5 @@ p.caption{
 	color: #999999;
 	font-style: italic;
 	margin-top: 0;
+	text-align: center;
 }
