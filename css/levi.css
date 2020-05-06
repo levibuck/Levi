@@ -49,7 +49,7 @@ main img{
 	max-width: 100%;
 	border-radius: 50px;
 	width: 200px;
-	border: 2px solid salmon
+	border: 2px solid #F87611;
 }
 h2{
 	font-size: 35px;
@@ -63,11 +63,10 @@ a{
 
 a:hover{
 	color: white;
-	background-color: #483a94;
-}
+	}
 
 footer{
-background-color: #d14635;
+background-color: #F87611;
 text-align: center;
 color: white
 
