@@ -1,3 +1,7 @@
 body{
 	background-color: gold
 }
+.big{
+	font-size: 60px;
+	text-transform: uppercase;
+}
